@@ -6,6 +6,15 @@ public class Film {
     private String duration;
     private String price;
     private String genre;
+    private boolean isBooked;
+
+    public boolean isBooked() {
+        return isBooked;
+    }
+
+    public void setBooked(boolean booked) {
+        isBooked = booked;
+    }
 
     public Film() {
         // Required empty public constructor for Firebase
