@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "23904483420",
+    "firebase_url": "https://cinema-booking-88f02-default-rtdb.firebaseio.com",
+    "project_id": "cinema-booking-88f02",
+    "storage_bucket": "cinema-booking-88f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23904483420:android:ae2c7a429be4acaacf0e99",
+        "android_client_info": {
+          "package_name": "com.example.cinema"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCioQ7VcKlJ9-FVrJHK1Y2-U_96cCQEpDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
