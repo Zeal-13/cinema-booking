@@ -14,7 +14,7 @@
 
 1. Скачайте или клонируйте репозиторий на ваше устройство.
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Zeal-13/cinema-booking.git
 ```
 2. Откройте проект в Android Studio.
 3. Соберите проект, нажав на меню "Build" -> "Make Project".
